@@ -31,7 +31,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://origin-c.tistory.com/"><img src="https://img.shields.io/badge/%20Blog-FFA500?style=flat-square&logo=tistory&logoColor=000000&link=https://origin-c.tistory.com/"/></a>&nbsp
-  <a href="mailto:dnflsnsk1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:dnflsnsk1001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dnflsnsk1001@gmail.com"/></a>
 </p>
 
 
