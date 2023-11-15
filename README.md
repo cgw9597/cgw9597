@@ -1,8 +1,8 @@
-#<div align="center">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=OriginC&color=auto)
 </div>
-#<div align="center">
+<div align="center">
   
 ![cgw9597's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgw9597)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgw9597&layout=compact&theme=default)
